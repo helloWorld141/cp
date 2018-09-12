@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453602765 source:c:\users\nghia\onedrive\cs\ntu acm\smartestman\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531106170 source:c:\users\nghia\desktop\cpp\fbhc18\tourist\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

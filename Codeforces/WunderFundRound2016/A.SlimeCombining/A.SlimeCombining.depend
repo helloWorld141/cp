@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1454091788 source:c:\users\nghia\onedrive\cs\codeforces\wunderfundround2016\a.slimecombining\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1454124611 source:c:\users\nghia\onedrive\cs\ntu acm\contest2\judgingtroubles\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<map>
+	<cstdio>
+

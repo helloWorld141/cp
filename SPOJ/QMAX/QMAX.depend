@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1453883882 source:c:\users\nghia\onedrive\cs\spoj\qmax\main.cpp
+	<iostream>
+	<cstdio>
+	<math.h>
+	<vector>
+

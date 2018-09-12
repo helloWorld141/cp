@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1476179140 source:c:\users\nghia nguyen\onedrive\cs\algorithm and data structure\backtrack\houses\main.cpp
+	<iostream>
+	<stdlib.h>
+
+1476290146 source:c:\users\nghia nguyen\onedrive\cs\competitve programming\online problems\spoj\houses\main.cpp
+	<iostream>
+	<stdlib.h>
+

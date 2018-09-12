@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453682875 source:c:\users\nghia\onedrive\cs\codeforces\340\d.polyline\main.cpp
+	<iostream>
+	<cstdio>
+	<algorithm>
+

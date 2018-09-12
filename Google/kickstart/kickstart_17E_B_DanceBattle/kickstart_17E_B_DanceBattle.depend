@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1506282584 source:c:\users\nghia nguyen\onedrive\cs\competitve programming\online problems\google\kickstart\kickstart_17e_b_dancebattle\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<vector>
+	<algorithm>
+	<cstring>
+

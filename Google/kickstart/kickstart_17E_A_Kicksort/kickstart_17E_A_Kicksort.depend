@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1506274377 source:c:\users\nghia nguyen\onedrive\cs\competitve programming\online problems\google\kickstart\kickstart_17e_a_kicksort\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<vector>
+

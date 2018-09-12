@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1455254636 source:c:\users\nghia\onedrive\cs\spoj\dttui1\main.cpp
+	<iostream>
+	<vector>
+	<cstdio>
+	<algorithm>
+	<math.h>
+

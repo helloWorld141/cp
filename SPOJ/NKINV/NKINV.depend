@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1453979216 source:c:\users\nghia\onedrive\cs\spoj\nkinv\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<fstream>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1454296908 source:c:\users\nghia\onedrive\cs\google\apac test\lazyspellingbee\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<array>
+	<fstream>
+

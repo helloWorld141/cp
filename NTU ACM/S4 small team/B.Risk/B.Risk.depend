@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1455937549 source:c:\users\nghia\onedrive\cs\ntu acm\s4 small team\b.risk\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<algorithm>
+

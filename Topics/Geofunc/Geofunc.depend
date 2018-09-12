@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1530199608 source:c:\users\nghia\desktop\cpp\geofunc\main.cpp
+	<iostream>
+	<cmath>
+

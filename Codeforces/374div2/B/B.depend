@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475341341 source:c:\users\nghia nguyen\onedrive\cs\online problems\codeforces\374div2\b\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+

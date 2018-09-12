@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1475337184 source:c:\users\nghia nguyen\onedrive\cs\online problems\codeforces\intelchallenge\b\main.cpp
+	<iostream>
+	<set>
+	<string>
+	<cstdlib>
+

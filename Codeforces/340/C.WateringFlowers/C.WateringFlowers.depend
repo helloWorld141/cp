@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453637813 source:c:\users\nghia\onedrive\cs\codeforces\340\c.wateringflowers\main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+

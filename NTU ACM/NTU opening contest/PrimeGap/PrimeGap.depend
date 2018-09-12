@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1453600155 source:c:\users\nghia\onedrive\cs\ntu acm\primegap\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+

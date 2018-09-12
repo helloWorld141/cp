@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1454119525 source:c:\users\nghia\onedrive\cs\codeforces\wunderfundround2016\b.guessthepermutation\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+

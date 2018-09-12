@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1455097824 source:c:\users\nghia\onedrive\cs\spoj\elis\main.cpp
+	<iostream>
+	<vector>
+	<cstdio>
+
