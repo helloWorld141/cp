@@ -1,2 +1,4 @@
 *.vscode
 *.xcodeproj
+*.DS_Store*
+*.out
